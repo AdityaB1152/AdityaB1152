@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bonde</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">Full Stack Web and Mobile Developer with expertise in Web3 from India</h3>
 
 - 📝 I regularly write articles on [adityabonde.hashnode.dev](adityabonde.hashnode.dev)
 
