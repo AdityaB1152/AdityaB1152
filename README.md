@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Bonde</h1>
 <h3 align="center">Full Stack Web and Mobile Developer with expertise in Web3 from India</h3>
 
-- 📝 I regularly write articles on [adityabonde.hashnode.dev](adityabonde.hashnode.dev)
+- 📝 I regularly write articles on [adityabonde.hashnode.dev](https://adityabonde.hashnode.dev)
 
 - 📫 How to reach me **aditya.bonde1152@gmail.com**
 
