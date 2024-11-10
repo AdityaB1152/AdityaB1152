@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Bonde</h1>
-# 💫 About Me:
+##💫 About Me:<br/>
+
 I’m a versatile Full Stack Developer with a strong background in both frontend and backend development, along with a specialized focus on blockchain technology. I excel at building and scaling applications across the entire stack, with proficiency in JavaScript, TypeScript, React, Node.js, Express, Golang, and backend frameworks like GraphQL. I’m experienced in creating and deploying RESTful and GraphQL APIs, serverless architectures, and microservices, with a solid understanding of databases like MongoDB and PostgreSQL.<br><br>In addition to my backend expertise, I specialize in frontend development, crafting responsive, user-centered applications using React, Next.js, and modern UI/UX principles. I have a keen eye for performance optimization and user experience, ensuring high-quality, accessible, and visually appealing solutions.<br><br>As a Blockchain Developer, I have hands-on experience developing decentralized applications (DApps) on Ethereum, focusing on smart contract development with Solidity. My expertise includes working with Web3 frameworks, deploying secure and efficient smart contracts, and integrating blockchain solutions seamlessly with backend systems.<br><br>With a problem-solving mindset, a deep understanding of data structures and algorithms, and a collaborative approach to agile development, I’m committed to creating innovative, scalable, and secure software solutions that make a meaningful impact.<br><br>
 
 
